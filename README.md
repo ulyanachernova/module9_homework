@@ -17,7 +17,7 @@
 > Если число попадает в диапазон от 1 до 10 — сделать запрос c помощью XHR по URL https://picsum.photos/v2/list?limit=10, где get-параметр limit — это введённое число.
 > После получения данных вывести ниже картинки на экран.
 
-#### Решение задачи - [по ссылке](https://github.com/ulyanachernova/module9_homework/blob/main/task3.js)
+#### Решение задачи - [по ссылке](https://github.com/ulyanachernova/module9_homework/tree/main/task3)
 
 - ### Задание 4. 
 > Напишите код приложения, интерфейс которого представляет собой 2 input и кнопку submit. В input можно ввести любое число.
@@ -28,7 +28,7 @@
 > Если числа попадают в диапазон от 100 до 300 — сделать запрос c помощью fetch по URL https://picsum.photos/200/300, где первое число — ширина картинки, второе — высота.
 > После получения данных вывести ниже картинку на экран.
 
-#### Решение задачи - [по ссылке](https://github.com/ulyanachernova/module9_homework/blob/main/task4.js)
+#### Решение задачи - [по ссылке](https://github.com/ulyanachernova/module9_homework/tree/main/task4)
 
 - ### Задание 5. 
 > Написать код приложения, интерфейс которого состоит из двух input и кнопки. В input можно ввести любое число.
@@ -43,4 +43,4 @@
 > Если и первый, и второй input не в диапазонах или не являются числами — выводить ниже текст «Номер страницы и лимит вне диапазона от 1 до 10»;
 > Если числа попадают в диапазон от 1 до 10 — сделать запрос по URL https://picsum.photos/v2/list?page=1&limit=10, где GET-параметр page — это число из первого input, а GET-параметр limit — это введённое число второго input.
 
-#### Решение задачи - [по ссылке](https://github.com/ulyanachernova/module9_homework/blob/main/task5.js)
+#### Решение задачи - [по ссылке](https://github.com/ulyanachernova/module9_homework/tree/main/task5)
